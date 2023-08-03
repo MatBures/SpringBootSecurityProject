@@ -1,4 +1,4 @@
-package org.firstPF.role;
+package org.firstPF.user;
 
 public enum Role {
     USER,
